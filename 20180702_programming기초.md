@@ -73,7 +73,10 @@ https://scratch.mit.edu 를 활용해서 코딩 로직 익혀보기
 
 (진영님이 공유해주신 프로그래밍으로 그린 아트 예시 1. Studio.code.org   2. Onformative)
 
-
++ 내가 만들어본 scratch
+  * https://scratch.mit.edu/projects/235241206/
+  * https://scratch.mit.edu/projects/235253263/
+  * https://scratch.mit.edu/projects/235251090/
 
 
 
